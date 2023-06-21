@@ -1,6 +1,4 @@
 # Azure-AZ900
-Notes and Materials required for this certification.
-
 
 #Instructions to follow before you step into the Repo files:
 
@@ -10,6 +8,7 @@ Notes and Materials required for this certification.
 
 3. The best way to utilize the content is to download the repo ZIP and open the downloaded content in a text editor preferably VS code.
 
+4. Read the course overview file for the understanding of the weightage of the certification examination.
 
 
 All the best.........->
