@@ -1,0 +1,5 @@
+Service Models responsibilities:
+As a service means which party will manage the particular layer and all the layers below.
+    Software layer consists the application (application code and set) & the application data
+    Platform layer means all the supporting software and the operating system required to host the application
+    Infrastructure layer consists hardware the infrastructure and virtualization required to host the platform

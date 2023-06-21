@@ -1,0 +1,15 @@
+Cloud Computing:
+    Service delivery model over the internet (cloud). This includes but is not limited to:
+       a. compute power meaning servers such as windows, linux, hosting environments, etc.
+       b. storage like files and/or databases
+       c. networking in azure but also outside when connecting to your company network
+       d. analytics services for visualization and telemetry data
+
+Key concepts:
+    a. scalability is the ability to scale, so allocate and deallocate resources at any time
+    b. elasticity is the ability to scale dynamically
+    c. agility is the ability to react fast (scale quickly)
+    d. fault tolerance is the ability to maintain system uptime while physical and service component failures happen
+    e. disaster recovery is the process and design principle which allows a system to recover from natural or human induced disasters
+    f. high availability is the agreed level of operational uptime for the system. It is a simple calculation of system uptime versus whole lifetime of the system.
+        availability = uptime/(uptime + downtime)
