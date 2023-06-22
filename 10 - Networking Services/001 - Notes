@@ -1,0 +1,19 @@
+1. Azure Virtual Private Network (VPN)
+
+An Azure Virtual Private Network (VPN) is a private network that runs over the public internet. It allows you to connect your on-premises network to Azure, or to connect two Azure regions together. This can be useful for security, compliance, or performance reasons.
+
+2. Azure VPN Gateway
+
+An Azure VPN Gateway is a hardware appliance that is used to connect your on-premises network to Azure. It provides a secure connection between your network and Azure, and it can be used to connect to multiple regions.
+
+3. Azure Load Balancer
+
+An Azure Load Balancer is a service that distributes traffic across multiple servers. This can be useful for improving performance and availability, or for scaling your applications.
+
+4. Azure Application Gateway
+
+An Azure Application Gateway is a layer 7 load balancer that is specifically designed for web applications. It provides a number of features that can improve the performance and security of your web applications, such as SSL offloading, web application firewall, and content caching.
+
+5. Azure CDN
+
+An Azure CDN (Content Delivery Network) is a network of servers that are distributed around the world. It can be used to deliver static content, such as images, JavaScript, and CSS, to users in a fast and efficient way.
