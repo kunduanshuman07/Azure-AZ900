@@ -1,0 +1,27 @@
+1. Azure Cosmos DB
+
+Azure Cosmos DB is a globally distributed, multi-model database service. This means that it can store and query data in a variety of formats, including JSON, XML, and binary. Cosmos DB is a good choice for applications that need to be able to scale globally and that need to be able to handle a variety of data types.
+
+2. Azure SQL Database
+
+Azure SQL Database is a relational database service that is hosted in the cloud. It is a fully managed service, which means that Microsoft takes care of the underlying infrastructure. Azure SQL Database is a good choice for applications that need a relational database and that do not want to worry about managing the underlying infrastructure.
+
+3. Azure Database for MySQL
+
+Azure Database for MySQL is a managed MySQL database service. This means that Microsoft takes care of the underlying infrastructure and that you can focus on developing your applications. Azure Database for MySQL is a good choice for applications that need a MySQL database and that do not want to worry about managing the underlying infrastructure.
+
+4. Azure Database for PostgreSQL
+
+Azure Database for PostgreSQL is a managed PostgreSQL database service. This means that Microsoft takes care of the underlying infrastructure and that you can focus on developing your applications. Azure Database for PostgreSQL is a good choice for applications that need a PostgreSQL database and that do not want to worry about managing the underlying infrastructure.
+
+5. Azure SQL Managed Instance
+
+Azure SQL Managed Instance is a fully managed instance of SQL Server that runs in the cloud. It is a good choice for applications that need the performance and scalability of SQL Server but do not want to worry about managing the underlying infrastructure.
+
+6. Azure SQL on VM
+
+Azure SQL on VM is a service that allows you to run SQL Server on virtual machines in Azure. This gives you the flexibility to choose the version of SQL Server that you need and to manage the underlying infrastructure yourself. Azure SQL on VM is a good choice for applications that need a specific version of SQL Server or that need to be able to customize the underlying infrastructure.
+
+7. Azure SQL DW Synapse
+
+Azure SQL DW Synapse is a fully managed, petabyte-scale analytics service. It is a good choice for applications that need to analyze large amounts of data. Synapse provides a number of features that can help you to analyze your data, such as in-memory analytics, real-time analytics, and machine learning.
