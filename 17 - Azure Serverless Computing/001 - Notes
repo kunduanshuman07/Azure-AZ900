@@ -1,0 +1,5 @@
+Azure Functions are serverless compute services that run your code on demand without the need to manage servers. You can use Azure Functions to create small, isolated pieces of code that can be triggered by events, such as HTTP requests, timer events, or file changes.
+
+Azure Logic Apps are cloud-based workflow automation services that help you automate tasks across different cloud and on-premises systems. You can use Azure Logic Apps to create workflows that respond to events, send emails, or integrate with other applications.
+
+Azure Event Grid is a fully managed event routing service that allows you to react to events across your Azure and non-Azure applications. You can use Azure Event Grid to send events to Azure Functions, Logic Apps, or other applications.
