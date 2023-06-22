@@ -1,0 +1,7 @@
+IoT stands for Internet of Things. It refers to the network of physical devices that are connected to the internet and can collect and exchange data.\
+
+IoT Hub is a service that allows you to connect, manage, and collect data from IoT devices. It provides a secure way for devices to communicate with each other and with the cloud.
+
+IoT Central is a platform that makes it easy to build and manage IoT solutions. It provides a pre-built user interface, templates, and APIs that you can use to get started quickly.
+
+Azure Sphere is a secure platform for building IoT devices. It includes a secure operating system, hardware security features, and a cloud-based service for managing devices.
