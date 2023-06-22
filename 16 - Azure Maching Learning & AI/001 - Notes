@@ -1,0 +1,8 @@
+Azure Machine Learning is a cloud service that helps you build, deploy, and manage machine learning models. It provides a variety of tools and services that you can use to automate the machine learning process, from data preparation to model deployment.
+Azure Machine Learning can be used by anyone who wants to build machine learning models, regardless of their experience level. It is a powerful platform that can be used to solve a variety of problems, such as fraud detection, image classification, and natural language processing.
+
+Here are some of the key features of Azure Machine Learning:
+
+Automated machine learning: Azure Machine Learning provides a variety of automated machine learning tools that can help you build models without having to write any code.
+Managed infrastructure: Azure Machine Learning provides a managed infrastructure that takes care of the underlying hardware and software, so you can focus on building models.
+Integration with other Azure services: Azure Machine Learning can be integrated with other Azure services, such as Azure Databricks and Azure Synapse Analytics, to provide a complete end-to-end machine learning solution.
