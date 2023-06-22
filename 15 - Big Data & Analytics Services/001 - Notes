@@ -1,0 +1,5 @@
+Azure Synapse Analytics is a fully managed analytics service that brings together enterprise data warehousing and big data analytics. It is a powerful platform that can be used to analyze large amounts of data from a variety of sources.
+
+Azure HDInsight is a managed Hadoop and Spark service that makes it easy to run big data analytics on Azure. It provides a variety of open source tools that can be used to process and analyze large datasets.
+
+Azure Databricks is an Apache Spark-based analytics platform that is optimized for Azure. It provides a unified environment for data engineering, machine learning, and analytics.
