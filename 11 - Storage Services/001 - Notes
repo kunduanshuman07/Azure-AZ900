@@ -1,0 +1,23 @@
+1. Azure BLOB Storage
+
+Azure BLOB Storage is a service for storing large amounts of unstructured data. BLOB stands for Binary Large Object, and it can be used to store any type of file, such as images, videos, documents, and backups.
+
+2. Azure Queue Storage
+
+Azure Queue Storage is a service for storing messages. Messages are small pieces of data that can be used to communicate between applications. Queue Storage is a good choice for applications that need to be able to reliably send and receive messages.
+
+3. Azure File Storage
+
+Azure File Storage is a service for storing files. Files are organized in a hierarchical structure, and they can be accessed using the familiar file system APIs. File Storage is a good choice for applications that need to be able to access files in a traditional way.
+
+4. Azure Table Storage
+
+Azure Table Storage is a service for storing structured data. Tables are organized in a tabular format, and they can be queried using SQL-like syntax. Table Storage is a good choice for applications that need to store large amounts of structured data.
+
+5. Azure Disk Storage
+
+Azure Disk Storage is a service for storing block level storage. Disks are used to store operating systems, applications, and data. Disk Storage is a good choice for applications that need high performance and low latency access to their data.
+
+6. Azure Storage Accounts
+
+An Azure Storage Account is a container for all of your Azure Storage resources. This includes BLOBs, queues, files, tables, and disks. Storage Accounts are used to manage access to your data, and they also provide a number of other features, such as replication and encryption.
